@@ -1,0 +1,1 @@
+requests==2.26.0 urllib3==1.26.7 prettytable==2.2.0 datetime json difflib mysql-connector-python==8.0.28 tqdm==4.62.3 colorama==0.4.4 smtplib tabulate==0.8.9 ipaddress
